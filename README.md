@@ -1,4 +1,4 @@
- # QUEEN_ANITA-V2
+ # Cyber_Shellah-Bot
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## QUEEN_ANITA-V2 Deployment Methods
+ ## Cyber_Shellah-Bot Deployment Methods
 
 ### 1. FORK THIS REPO
 
