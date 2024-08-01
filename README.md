@@ -1,4 +1,4 @@
- #  Cyber_Shellah_Bot
+  #  Cyber_Shellah_Bot
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://github.com/ Cyber_Shellah_Bot/followers"><img title="Followers" src="https://img.shields.io/github/followers/ Cyber_Shellah_Bot?color=red&style=flat-square"></a>
 <a href="https://https://github.com/Foremd/CYBER_SHELLAH_BOT/blob/main/README.md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ Cyber_Shellah_Bot?color=blue&style=flat-square"></a>
-<a href="https://github.com/Foremd/CYBER_SHELLAH_BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Queen_Anita-V2?color=red&style=flat-square"></a>
+<a href="https://github.com/Foremd/CYBER_SHELLAH_BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SHELLAH_MD BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/Foremd/CYBER_SHELLAH_BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ Cyber_Shellah_Bot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Foremd/CYBER_SHELLAH_BOT/"><img title="Size" src="https://img.shields.io/github/repo-size// Cyber_Shellah_Bot?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FD Cyber_Shellah_Bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
@@ -25,7 +25,7 @@
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/DeeCeeXxx/Queen_Anita-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Foremd/CYBER_SHELLAH_BOT /fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID HERE
 
@@ -33,14 +33,14 @@
  
 <a href="https://cyber-server-1.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-<a href="https://anita-server-1.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+<a href="https://CYBER-server-1.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
 
 ### SERVER 2 
 ### GET SESSION ID HERE
 
-<a href="https://queen-anita-server-2.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://CYBER_SHELLAH -server-2.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-<a href="https://queen-anita-server-2.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a>
+<a href="https://CYBER_SHELLAH- server-2.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a>
 ### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
 
 
@@ -121,3 +121,4 @@ SUPPORT CHANNEL: <a href= "(https://whatsapp.com/channel/0029VaeRru3A.PCPom0L)">
 <b>Version -> 2.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
